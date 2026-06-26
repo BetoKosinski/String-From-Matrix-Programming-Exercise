@@ -1,4 +1,4 @@
-# String From Matrix - Programming Exercise
+# String From Matrix - Programming Exercise (C++ Study)
 A function that builds a string with the entries of a matrix appended in clock-wise order.
 
 - Four boundary variables (top, bottom, left, right) for spiral traversal.
